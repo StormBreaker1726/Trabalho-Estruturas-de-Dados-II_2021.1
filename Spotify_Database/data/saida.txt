@@ -1,0 +1,45 @@
+Tempo médio gasto do quicksort com 3 registros aleatórios: 4e-06
+Comparacoes médias gasto do quicksort com 3 registros aleatórios : 4
+Movimentacoes médias gastas do quicksort com 3 registros aleatórios : 7
+
+
+Tempo médio gasto do heapsort com 3 registros aleatórios: 5.33333e-06
+Comparacoes médias gasto do heapsort com 3 registros aleatórios : 13
+Movimentacoes médias gastas do heapsort com 3 registros aleatórios : 1
+
+
+Tempo médio gasto do timsort com 3 registros aleatórios: 3e-06
+Comparacoes médias gasto do timsort com 3 registros aleatórios : 13
+Movimentacoes médias gastas do timsort com 3 registros aleatórios : 1
+
+
+Tempo médio gasto do quicksort com 6 registros aleatórios: 8.66667e-06
+Comparacoes médias gasto do quicksort com 6 registros aleatórios : 20
+Movimentacoes médias gastas do quicksort com 6 registros aleatórios : 27
+
+
+Tempo médio gasto do heapsort com 6 registros aleatórios: 8.66667e-06
+Comparacoes médias gasto do heapsort com 6 registros aleatórios : 38
+Movimentacoes médias gastas do heapsort com 6 registros aleatórios : 3
+
+
+Tempo médio gasto do timsort com 6 registros aleatórios: 5.66667e-06
+Comparacoes médias gasto do timsort com 6 registros aleatórios : 38
+Movimentacoes médias gastas do timsort com 6 registros aleatórios : 3
+
+
+Tempo médio gasto do quicksort com 7 registros aleatórios: 3.33333e-06
+Comparacoes médias gasto do quicksort com 7 registros aleatórios : 24
+Movimentacoes médias gastas do quicksort com 7 registros aleatórios : 32
+
+
+Tempo médio gasto do heapsort com 7 registros aleatórios: 2.33333e-06
+Comparacoes médias gasto do heapsort com 7 registros aleatórios : 43
+Movimentacoes médias gastas do heapsort com 7 registros aleatórios : 3
+
+
+Tempo médio gasto do timsort com 7 registros aleatórios: 2e-06
+Comparacoes médias gasto do timsort com 7 registros aleatórios : 43
+Movimentacoes médias gastas do timsort com 7 registros aleatórios : 3
+
+

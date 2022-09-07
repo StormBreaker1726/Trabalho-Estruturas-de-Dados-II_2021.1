@@ -1,0 +1,40 @@
+T: 20
+Tempo médio gasto com as inserções foi de: 0.00451
+Tempo médio gasto com as buscas dos registros aleatórios com:  100 : 2.27e-06
+Comparacoes médias gasto foi de:14611
+T: 20
+Tempo médio gasto com as inserções foi de: 0.00249401
+Tempo médio gasto com as buscas dos registros aleatórios com:  150 : 1.99e-06
+Comparacoes médias gasto foi de:29222
+T: 20
+Tempo médio gasto com as inserções foi de: 0.00248601
+Tempo médio gasto com as buscas dos registros aleatórios com:  200 : 2.11e-06
+Comparacoes médias gasto foi de:43833
+T: 20
+Tempo médio gasto com as inserções foi de: 0.00248201
+Tempo médio gasto com as buscas dos registros aleatórios com:  250 : 2.14e-06
+Comparacoes médias gasto foi de:58444
+T: 20
+Tempo médio gasto com as inserções foi de: 0.00250901
+Tempo médio gasto com as buscas dos registros aleatórios com:  300 : 2.24e-06
+Comparacoes médias gasto foi de:73055
+T: 200
+Tempo médio gasto com as inserções foi de: 0.011684
+Tempo médio gasto com as buscas dos registros aleatórios com:  100 : 4.28e-06
+Comparacoes médias gasto foi de:164823
+T: 200
+Tempo médio gasto com as inserções foi de: 0.011644
+Tempo médio gasto com as buscas dos registros aleatórios com:  150 : 4.31e-06
+Comparacoes médias gasto foi de:256591
+T: 200
+Tempo médio gasto com as inserções foi de: 0.011609
+Tempo médio gasto com as buscas dos registros aleatórios com:  200 : 4.36e-06
+Comparacoes médias gasto foi de:348360
+T: 200
+Tempo médio gasto com as inserções foi de: 0.011773
+Tempo médio gasto com as buscas dos registros aleatórios com:  250 : 4.39e-06
+Comparacoes médias gasto foi de:440128
+T: 200
+Tempo médio gasto com as inserções foi de: 0.011608
+Tempo médio gasto com as buscas dos registros aleatórios com:  300 : 4.32e-06
+Comparacoes médias gasto foi de:531896
